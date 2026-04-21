@@ -1,0 +1,4 @@
+- download `best_deeplabv3plus_resnet101_cityscapes_os16.pth.tar` from https://drive.google.com/file/d/1t7TC8mxQaFECt4jutdq_NMnWxdm6B-Nb/view
+- download `yolo11x-seg.pt` from https://github.com/ultralytics/assets/releases/download/v8.3.0/yolo11x-seg.pt
+- download `alibaba-pai/CogVideoX-Fun-V1.5-5b-InP` from https://huggingface.co/alibaba-pai/CogVideoX-Fun-V1.5-5b-InP
+- download our trained `adverse_weather` model from https://drive.google.com/file/d/1sYu9ziq6uVaBcyWCU3bjuZS5_UciM_aQ/view?usp=sharing
