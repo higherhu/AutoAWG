@@ -6,7 +6,7 @@
     <p>
     Official PyTorch code for <em>AutoAWG: Adverse Weather Generation with Adaptive Multi-Controls for Automotive Videos</em><br>    </p>
     </p>
-    <a href="https://arxiv.org/abs/2604.xxxxx"><img src="https://img.shields.io/badge/arXiv-2604.xxxxx-b31b1b" alt="version"></a>
+    <a href="https://arxiv.org/abs/2604.18993"><img src="https://img.shields.io/badge/arXiv-2604.18993-b31b1b" alt="version"></a>
     <a href="https://doi.org/10.1145/3805622.3810849" target='_blank'><img src="https://img.shields.io/badge/DOI-10.1145/3805622.3810849-blue"></a>
     <a href='https://huggingface.co/HigherHu/AutoAWG'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-yellow'></a>
     <a href="https://www.apache.org/licenses/LICENSE-2.0"><img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg" alt="Apache"></a>
